@@ -4,7 +4,7 @@
 
 An example project illustrating how to connect the esp8266 to an stm32f4 development board using SPI and UART buses.
 
-Why do it the hard way?
+### Why do it the hard way? ###
 
 - TODO: flush this out better 
 - basically UART1 is used for programming the esp8266 so this allows you to leave the programming interface exposed and still interract with the chip
