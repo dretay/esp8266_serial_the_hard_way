@@ -1,0 +1,23 @@
+{
+  "folders":
+  [
+    {
+      "path": ".",
+      "folder_exclude_patterns": ["build","firmware"],
+      "file_exclude_patterns":["*.sublime-project","*.sublime-workspace"]
+    }
+  ],
+    "settings":
+    {
+        "sublimeclang_options":
+        [
+          "-IC:/Espressif/xtensa-lx106-elf/lib/gcc/xtensa-lx106-elf/5.1.0/include",
+          "-IC:/Espressif/ESP8266_SDK_141/include",
+          "-IC:/Espressif/xtensa-lx106-elf/xtensa-lx106-elf/include",
+          "-I${folder:${project_path:project.sublime-project}}",
+          "-I${folder:${project_path:project.sublime-project}}/**",
+          "-Wno-implicit-function-declaration"
+        ]
+    }
+
+}

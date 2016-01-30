@@ -1,0 +1,37 @@
+{
+	"folders":
+	[
+		{
+			"path": ".",
+			"folder_exclude_patterns": ["Flash"],
+			"file_exclude_patterns":["*.sublime-project","*.sublime-workspace","*.uvguix*","*.uvoptx","*.uvprojx"]
+		}
+	],
+    "settings": {
+        "sublimeclang_options": [
+					"-IC:/Users/Drew/Documents/Keil/libraries/ugfx_24_151114",
+					"-IC:/Users/Drew/Documents/Keil/libraries/ugfx_24_151114/drivers/gdisp/PCD8544",
+
+					"-ID:/Keil_v5/ARM/Pack/ARM/CMSIS/4.5.0/CMSIS/Include",
+					"-ID:/Keil_v5/ARM/Pack/ARM/CMSIS/4.5.0/CMSIS/RTOS/RTX/INC",
+					"-ID:/Keil_v5/ARM/Pack/Keil/MDK-Middleware/7.0.0-beta/Board",
+
+					"-I${folder:${project_path:project.sublime-project}}",
+					"-I${folder:${project_path:project.sublime-project}}/**",
+
+					"-ID:/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+					"-ID:/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Drivers/STM32F4xx_HAL_Driver/Inc",
+					"-ID:/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/MDK/Boards/ST/STM32F4-Discovery/Common",
+
+					"-ID:/Keil_v5/ARM/ARMCC/include",
+
+					"-D__RTX",
+					"-D__MICROLIB",
+					"-D_RTE_",
+					"-DSTM32F407xx",
+					"-D__UVISION_VERSION=\"517\"",
+					"-DHSE_VALUE=\"8000000\"",
+					"-D__GNUC__"
+        ]
+    }
+}

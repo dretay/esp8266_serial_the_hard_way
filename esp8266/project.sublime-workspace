@@ -1,0 +1,732 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"spi",
+				"spi_data	int [32]"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 653,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "user/user_main.c",
+			"settings":
+			{
+				"buffer_size": 1377,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"shell",
+				"Preferences: ShellStatus Settings – Default"
+			],
+			[
+				"ISNTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"vmen",
+				"View: Toggle Menu"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimecla",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"sublimecl",
+				"Preferences: SublimeClang Settings – Default"
+			],
+			[
+				"sublimeclan",
+				"Set Syntax: SublimeClangErrorPanel"
+			],
+			[
+				"sublime",
+				"Set Syntax: SublimeClangErrorPanel"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 314.0,
+		"history":
+		[
+			"git",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Drew/Documents/projects/esp8266_serial_the_hard_way.git/esp8266",
+		"/C/Users/Drew/Documents/projects/esp8266_serial_the_hard_way.git/esp8266/user"
+	],
+	"file_history":
+	[
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/user/user_main.c",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/driver/uart.c",
+		"/C/Espressif/examples/UART_TCP_Passthrough_Demo/driver/uart.c",
+		"/C/Espressif/examples/UART_TCP_Passthrough_Demo/user/user_main.c",
+		"/C/Espressif/examples/UART_TCP_Passthrough_Demo/include/driver/uart.h",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Projects/STM32F4-Discovery/Examples/UART/UART_TwoBoards_ComDMA/Inc/main.h",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Projects/STM32F4-Discovery/Examples/UART/UART_TwoBoards_ComDMA/Inc/stm32f4xx_it.h",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Projects/STM32F4-Discovery/Examples/UART/UART_TwoBoards_ComDMA/Inc/stm32f4xx_hal_conf.h",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/driver/i2c.c",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/include/driver/i2c.h",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/include/driver/uart_register.h",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/driver/spi.c",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/include/driver/uart.h",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/include/driver/spi_register.h",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Projects/STM32F4-Discovery/Examples/I2C/I2C_TwoBoards_ComDMA/Inc/main.h",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Projects/STM32F4-Discovery/Examples/I2C/I2C_TwoBoards_ComDMA/Src/main.c",
+		"/C/Espressif/examples/gpio16_key/user/user_main.c",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/user/user_config.h",
+		"/C/Espressif/ESP8266_SDK_141/examples/IoT_Demo/user/user_main.c",
+		"/C/Espressif/ESP8266_SDK_141/examples/IoT_Demo/user/user_sensor.c",
+		"/C/Espressif/ESP8266_SDK_141/examples/IoT_Demo/driver/i2c_master.c",
+		"/C/Espressif/ESP8266_SDK_141/examples/IoT_Demo/include/driver/i2c_master.h",
+		"/C/Espressif/examples/SPI_slave/driver/spi.c",
+		"/C/Espressif/examples/SPI_slave/include/driver/spi.h",
+		"/C/Espressif/examples/SPI_slave/include/driver/spi_register.h",
+		"/C/Espressif/examples/i2c_24xx16/user/user_main.c",
+		"/C/Espressif/examples/i2c_24xx16/driver/i2c_24xx16.c",
+		"/C/Espressif/examples/i2c_24xx16/driver/i2c.c",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/include/driver/pin_map.h",
+		"/C/Espressif/examples/i2c_24xx16/include/driver/i2c.h",
+		"/C/Espressif/examples/i2c_24xx16/include/user_config.h",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/include/driver/spi.h",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/driver/pin_map.c",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/include/spi_register.h",
+		"/C/Users/Drew/Documents/GitHub/esp-hello-world/Makefile",
+		"/C/Users/Drew/Desktop/stm32f4rtos_blinky/MDK/Boards/ST/STM32F4-Discovery/Blinky/Uart_DMA.c",
+		"/C/Users/Drew/Desktop/stm32f4rtos_blinky/MDK/Boards/ST/STM32F4-Discovery/Blinky/Blinky.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/driver/hspi.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/driver/hspi_slave.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/include/driver/spi_register.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/include/driver/espino.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/include/driver/pins_espino.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/include/driver/esp8266_peri.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/user/hspi_slave.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/user/espino.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/user/user_main.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/driver/spi.c",
+		"/C/Users/Drew/Desktop/SPI_CODE_141204/SPI_CODE_141204/spi_code/ets_sys.h",
+		"/C/Users/Drew/Desktop/SPI_CODE_141204/SPI_CODE_141204/spi_code/spi.c",
+		"/C/Users/Drew/Desktop/SPI_CODE_141204/SPI_CODE_141204/spi_code/spi_register.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/include/driver/spi.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/http_process.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/http.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/cgi_wifi.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/http_process.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/cgi_wifi.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/http_client.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/http_client.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/app.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/Makefile",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/include/lwip/ip_addr.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/include/user_interface.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/cgi_relay.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/http_helper.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/http/http_helper.c",
+		"/C/Espressif/ESP8266_SDK_141/include/c_types.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/platform/platform.h",
+		"/C/Espressif/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/_types.h",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/User/SublimeClang.sublime-settings",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/project.sublime-project",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/SublimeClang/SublimeClang.sublime-settings",
+		"/C/Espressif/xtensa-lx106-elf/xtensa-lx106-elf/include/string.h",
+		"/C/Espressif/xtensa-lx106-elf/xtensa-lx106-elf/include/sys/reent.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/stm32f4/project.sublime-project",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/ssl/app/espconn_ssl.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/include/user_config.h",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/driver/relay.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/esp8266/app/platform/platform.c",
+		"/C/Users/Drew/Documents/projects/wifi_eink/stm32f4/stm32_ugfx_keil5_nokia5110.sublime-project",
+		"/C/Users/Drew/Documents/Keil/projects/stm32_ugfx_keil5_nokia5110/Thread_ExtIO.c",
+		"/C/Users/Drew/Documents/Keil/projects/stm32_ugfx_keil5_nokia5110/Thread_LED.c",
+		"/C/Users/Drew/Documents/Keil/projects/stm32_ugfx_keil5_nokia5110/Startup.c",
+		"/C/Users/Drew/Documents/Keil/projects/stm32_ugfx_keil5_nokia5110/Thread_ESP8266.c",
+		"/C/Users/Drew/Downloads/tm_stm32fgpio/tm_stm32f4_gpio.c",
+		"/C/Users/Drew/Downloads/tm_stm32fgpio/tm_stm32f4_gpio.h",
+		"/C/Users/Drew/Downloads/defines/defines.h",
+		"/C/Users/Drew/Downloads/defines (1)/defines.h",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/User/build.bat.sublime-build",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/User/build.bar.sublime-build",
+		"/C/Users/Drew/Documents/Keil/projects/stm32_ugfx_keil5_nokia5110/stm32_ugfx_keil5_nokia5110.sublime-project",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/MDK/Boards/ST/STM32F4-Discovery/Common/LED_F4Discovery.c",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/MDK/Boards/ST/STM32F4-Discovery/Common/Buttons_F4Discovery.c",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/SublimeGit/SublimeGit.sublime-settings",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/ShellStatus/ShellStatus.sublime-settings",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/D/Keil_v5/ARM/ARMCC/include/stdio.h",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/SublimeClang/internals/clang/include/stddef.h",
+		"/D/Keil_v5/ARM/Pack/ARM/CMSIS/4.5.0/CMSIS/Include/core_cm4.h",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h",
+		"/C/Users/Drew/Documents/Keil/projects/stm32_ugfx_keil5_nokia5110/spi_helpers.h",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h",
+		"/C/Users/Drew/AppData/Roaming/Sublime Text 3/Packages/SublimeClang/Default.sublime-keymap",
+		"/C/Users/Drew/Documents/GitHub/SublimeClang/internals/common.py",
+		"/C/Users/Drew/Downloads/CortexMicrocontrollerTutorialExercises/Exercises/CMSIS RTX Signals/main.c",
+		"/C/Users/Drew/Downloads/tm_stm32fstring/tm_stm32f4_string.c",
+		"/C/Users/Drew/Downloads/tm_stm32fstring/tm_stm32f4_string.h",
+		"/C/Users/Drew/Documents/Keil/projects/stm32_ugfx_keil5_nokia5110/board_PCD8544.h",
+		"/C/Users/Drew/Documents/Keil/projects/stm32_eink/MDK/Boards/ST/STM32F4-Discovery/Blinky/Thread_SPI.c",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx_24_151114/drivers/gdisp/SSD1289/board_SSD1289_template.h",
+		"/C/Users/Drew/Documents/Keil/projects/stm32_display/board_PCD8544.h",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx/demos/applications/notepad/gfxconf.h",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx/demos/3rdparty/bubbles/gfxconf.h",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx/demos/benchmarks/main.c",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx/demos/benchmarks/gfxconf.h",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx/drivers/gdisp/PCD8544/gdisp_lld_config.h",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx/drivers/gdisp/PCD8544/PCD8544.h",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx/drivers/gdisp/PCD8544/board_PCD8544_template.h",
+		"/C/Users/Drew/Downloads/stm32vld-ChibiOS-n3310/stm32vld-ChibiOS-n3310/f10x-pcd8544.c",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx/demos/3rdparty/bubbles/main.c",
+		"/C/Users/Drew/Downloads/stm32vld-ChibiOS-n3310/stm32vld-ChibiOS-n3310/f10x-pcd8544.h",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx/boards/base/STM32F429i-Discovery/board_STM32F429iDiscovery.h",
+		"/C/Users/Drew/Documents/Keil/libraries/ugfx/boards/base/STM32F429i-Discovery/stm32f429i_discovery_sdram.c",
+		"/C/Users/Drew/Downloads/SPI_CODE_141204/SPI_CODE_141204/spi_code/spi.c",
+		"/C/Users/Drew/Downloads/SPI_CODE_141204/SPI_CODE_141204/spi_code/spi_register.h",
+		"/D/Keil_v5/ARM/Pack/Keil/STM32F4xx_DFP/2.6.0/Projects/STM32F4-Discovery/Examples/SPI/SPI_FullDuplex_ComIT/Src/main.c"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+			"C:\\Users\\Drew\\Documents\\projects\\wifi_eink\\esp8266",
+			"C:\\Users\\Drew\\Downloads\\CortexMicrocontrollerTutorialExercises\\Exercises",
+			"C:\\Espressif\\examples\\esphttpd",
+			"C:\\Users\\Drew\\Downloads\\CortexMicrocontrollerTutorialExercises\\Exercises\\CMSIS RTX  Interrupt Signal"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"uart_tx_one_char",
+			"transmit_data",
+			"UartReady",
+			"uart1_write_char",
+			"uart1",
+			"uart1_write_char",
+			"sendStr_no_wait",
+			"no_",
+			"uart1",
+			"uart_init",
+			"i2c_master_readByte",
+			"readbyte",
+			"i2c_master_readByte",
+			"I2C_SLEEP_TIME",
+			"I2Cx_SCL_PIN",
+			"i2c_writeByte",
+			"spi_slave_isr_handler",
+			"i2c_master_gpio_init",
+			"user_procTaskQueue",
+			"UartBuffer",
+			"DEBUG_UART",
+			"myUARTCb",
+			"uart_register_data_callback",
+			"rxbuffer",
+			"spi_byte_read_espslave",
+			"micros(",
+			"micros",
+			"int32_t",
+			".out",
+			"ESPTOOL",
+			"sdk_root",
+			"bitlen",
+			"_en",
+			"USER_TASK_PRIO_1",
+			"WR_RD",
+			"SPI_SLV_RD_ADDR_BITLEN_S",
+			"spi_sla",
+			"spi_mast_set_mosi",
+			"spi_set_mosi",
+			"spi_mast_set_mosi",
+			"body",
+			"http_parser body",
+			"http parser body",
+			"body",
+			"http_connection",
+			"http_callback",
+			"cgi_struct",
+			"//",
+			"ip_addr",
+			"struct ip",
+			"api_cgi_check_internet_status",
+			"http_connection",
+			"api_cgi_check_internet_status",
+			"http_wifi_api_check_internet",
+			"http_client_new",
+			"http_request_GET",
+			"http_client_request_execute",
+			"http_get",
+			"http_client_request_execute",
+			"http",
+			"_READ_WRITE_RETURN_TYPE",
+			"spi_data",
+			"disp_spi_data",
+			"spi_data",
+			"print",
+			"update_cpu_freq",
+			"spi_mast_byte_write",
+			"ssid",
+			"h",
+			"HAL_StatusTypeDef",
+			"\\\\",
+			"/",
+			"TM_STRING_Create",
+			"TM_STRING_t",
+			"malloc",
+			"BUFFERSIZE",
+			"aTxBuffer",
+			"release_bus",
+			"background",
+			"lcd8544_init",
+			"set_DATA",
+			"/usr",
+			"YUI-COMPRESSOR",
+			"/usr",
+			"COMPRESS_W_YUI",
+			"sh -c",
+			"/mkespfsimage/",
+			"mkespfsimage",
+			"espfs",
+			"AFIO",
+			"mapr",
+			"map",
+			"afio",
+			"rcc_apb",
+			"ADC1_2_IRQHandler",
+			"RCC_Clocks",
+			"pm2525_loc_remote",
+			"pm2525_poll",
+			"pm2525_error_check",
+			"pm2525_get_min_max",
+			"pm2525_poll",
+			"pm2525_soft_trig",
+			"pm2525_write_data",
+			"pm2525_read_data"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/",
+			"\\\\"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "project.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 653,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "user/user_main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1377,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.clang":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/build.bat.sublime-build",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"hs",
+				"app\\driver\\hspi_slave.c"
+			],
+			[
+				"spi.h",
+				"app\\include\\driver\\spi.h"
+			],
+			[
+				"spi",
+				"app\\driver\\spi.c"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"http",
+				"app\\http\\http.h"
+			],
+			[
+				"cgi_w",
+				"app\\http\\cgi_wifi.h"
+			],
+			[
+				"user_inter",
+				"include\\user_interface.h"
+			],
+			[
+				"http_clie",
+				"app\\http\\http_client.c"
+			],
+			[
+				"user_",
+				"app\\user\\user_main.c"
+			],
+			[
+				"user",
+				"app\\user\\user_main.c"
+			],
+			[
+				"user_ma",
+				"app\\user\\user_main.c"
+			],
+			[
+				"pl",
+				"app\\platform\\platform.h"
+			],
+			[
+				"plat",
+				"app\\platform\\platform.c"
+			],
+			[
+				"extio",
+				"Thread_ExtIO.c"
+			],
+			[
+				"ext",
+				"Thread_ExtIO.c"
+			],
+			[
+				"thread",
+				"Thread_LED.c"
+			],
+			[
+				"board",
+				"board_PCD8544.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
