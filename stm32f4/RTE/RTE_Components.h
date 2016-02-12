@@ -3,7 +3,7 @@
  * Auto generated Run-Time-Environment Component Configuration File
  *      *** Do not modify ! ***
  *
- * Project: 'stm32_display' 
+ * Project: 'project' 
  * Target:  'STM32F407 Flash' 
  */
 
